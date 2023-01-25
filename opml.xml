@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>竹書房Web漫画</title>
+  </head>
+  <body>
+    <outline text="竹書房Web漫画" title="竹書房Web漫画">
+      
+        <outline type="rss" attr="夢でフラれてはじまる百合" title="夢でフラれてはじまる百合" xmlUrl="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/yumedefurarete.xml" htmlUrl="https://gammaplus.takeshobo.co.jp/manga/yumedefurarete/"/>
+      
+        <outline type="rss" attr="魔法少女にあこがれて" title="魔法少女にあこがれて" xmlUrl="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/mahoako.xml" htmlUrl="https://storia.takeshobo.co.jp/manga/mahoako/"/>
+      
+    </outline>
+  </body>
+</opml>

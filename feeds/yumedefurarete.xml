@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[夢でフラれてはじまる百合]]></title>
+    <link>https://gammaplus.takeshobo.co.jp/manga/yumedefurarete/</link>
+    <atom:link href="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/yumedefurarete.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Wed, 25 Jan 2023 03:18:17 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第16話 今はまだ…そのあと
+]]></title>
+      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/16/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/16/</guid>
+      
+        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_16.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第15話 恋愛相談
+]]></title>
+      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/15/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/15/</guid>
+      
+        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_15.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+  </channel>
+</rss>

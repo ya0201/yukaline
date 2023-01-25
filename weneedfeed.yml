@@ -1,0 +1,17 @@
+selectors: &selectors
+  item_selector: //li[@class='episode__text']//ancestor::div[@class='read__outer']
+  item_link_selector: .//a
+  item_title_selector: .//li[@class='episode']
+  item_image_selector: .//img
+
+title: 竹書房Web漫画
+
+pages:
+  - id: "mahoako"
+    title: 魔法少女にあこがれて
+    url: https://storia.takeshobo.co.jp/manga/mahoako/
+    <<: *selectors
+  - id: "yumedefurarete"
+    title: 夢でフラれてはじまる百合
+    url: https://gammaplus.takeshobo.co.jp/manga/yumedefurarete/
+    <<: *selectors

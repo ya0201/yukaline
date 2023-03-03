@@ -7,7 +7,22 @@
     <link>https://gammaplus.takeshobo.co.jp/manga/yumedefurarete/</link>
     <atom:link href="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/yumedefurarete.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 03 Mar 2023 02:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 04:16:30 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第18話 朝の登校
+]]></title>
+      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/18/</link>
+      
+        <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/18/</guid>
+      
+        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_18.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第17話 イメージトレーニング
@@ -21,21 +36,6 @@
       <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/17/</guid>
       
         <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_17.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第16話 今はまだ…そのあと
-]]></title>
-      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/16/</link>
-      
-        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/16/</guid>
-      
-        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_16.jpg" length="0" type="image/jpeg"/>
       
     </item>
     

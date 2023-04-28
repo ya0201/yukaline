@@ -7,7 +7,22 @@
     <link>https://gammaplus.takeshobo.co.jp/manga/yumedefurarete/</link>
     <atom:link href="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/yumedefurarete.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 28 Apr 2023 03:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2023 03:27:13 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第22話 杉山姉妹
+]]></title>
+      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/22/</link>
+      
+        <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/22/</guid>
+      
+        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_22.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第21話 4人で
@@ -21,21 +36,6 @@
       <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/21/</guid>
       
         <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_21.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第20話 沙羅と結
-]]></title>
-      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/20/</link>
-      
-        <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/20/</guid>
-      
-        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_20.jpg" length="0" type="image/jpeg"/>
       
     </item>
     

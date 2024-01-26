@@ -7,7 +7,22 @@
     <link>https://gammaplus.takeshobo.co.jp/manga/yumedefurarete/</link>
     <atom:link href="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/yumedefurarete.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 26 Jan 2024 02:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 03:15:38 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第34話 告白
+]]></title>
+      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/34/</link>
+      
+        <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/34/</guid>
+      
+        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_34.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第33話 お散歩タイム
@@ -21,21 +36,6 @@
       <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/33/</guid>
       
         <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_33.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第32話 自信を持って
-]]></title>
-      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/32/</link>
-      
-        <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/32/</guid>
-      
-        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_32.jpg" length="0" type="image/jpeg"/>
       
     </item>
     

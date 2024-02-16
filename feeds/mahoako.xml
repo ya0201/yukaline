@@ -7,7 +7,21 @@
     <link>https://storia.takeshobo.co.jp/manga/mahoako/</link>
     <atom:link href="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/mahoako.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 16 Feb 2024 02:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 03:15:56 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第58話 ]]></title>
+      <link>https://storia.takeshobo.co.jp/_files/mahoako/58/</link>
+      
+        <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://storia.takeshobo.co.jp/_files/mahoako/58/</guid>
+      
+        <enclosure url="https://storia.takeshobo.co.jp/img/ep_thumb/mahoako_58.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第57話 ]]></title>
@@ -20,20 +34,6 @@
       <guid isPermaLink="true">https://storia.takeshobo.co.jp/_files/mahoako/57/</guid>
       
         <enclosure url="https://storia.takeshobo.co.jp/img/ep_thumb/mahoako_57.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第56話 ]]></title>
-      <link>https://storia.takeshobo.co.jp/_files/mahoako/56/</link>
-      
-        <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://storia.takeshobo.co.jp/_files/mahoako/56/</guid>
-      
-        <enclosure url="https://storia.takeshobo.co.jp/img/ep_thumb/mahoako_56.jpg" length="0" type="image/jpeg"/>
       
     </item>
     

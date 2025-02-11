@@ -7,7 +7,22 @@
     <link>https://gammaplus.takeshobo.co.jp/manga/yumedefurarete/</link>
     <atom:link href="https://ya0201.github.io/my-weneedfeed-takeshobo-manga/feeds/yumedefurarete.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 11 Feb 2025 02:39:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 03:02:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第45話 そういうことか!!
+]]></title>
+      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/45/</link>
+      
+        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/45/</guid>
+      
+        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_45.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第44話 デートのお作法
@@ -21,21 +36,6 @@
       <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/44/</guid>
       
         <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_44.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第43話 カラオケ
-]]></title>
-      <link>https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/43/</link>
-      
-        <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://gammaplus.takeshobo.co.jp/_files/yumedefurarete/43/</guid>
-      
-        <enclosure url="https://gammaplus.takeshobo.co.jp/img/ep_thumb/yumedefurarete_43.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
